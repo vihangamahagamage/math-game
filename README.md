@@ -22,7 +22,7 @@ A fun and interactive web-based math quiz game designed to test basic addition s
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/vihangamahagamage/math-quiz-game.git](https://github.com/vihangamahagamage/math-quiz-game.git)
+   https://vihangamahagamage.github.io/math-game/
    ```
 
 📸 Preview
